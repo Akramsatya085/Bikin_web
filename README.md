@@ -8,6 +8,7 @@ lalu klik new file pilih text file
 
 masukkan struktur dasar html
 ![Screenshot (57)](https://github.com/Akramsatya085/Bikin_web/assets/115615953/d57eda07-5897-44df-b2c4-e1384db81872)
+
 Struktur ini mencakup elemen-elemen dasar HTML seperti <!DOCTYPE html>,<html>,<head>,<title>,dan <body>
 
 Isi bagian <body> dengan konten yang ingin Anda tampilkan di halaman web, seperti teks, gambar, tautan, dll.
